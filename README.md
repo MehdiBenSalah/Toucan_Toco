@@ -1,5 +1,6 @@
 # Toucan_Toco </br>
 Ceci est un exemple d'application multitenant en utilisant toucan toco </br>
+Ce code utilise une base de donnée locale, c'est à dire qu'il faut changer la base de donnée du code pour que ça marche </br></br>
 login.php : fenetre principale pour se connecter </br>
 inscription.php : fenetre pour s'inscrire </br>
 verif_inscri.php : vérification des données saisies lors de l'inscription </br>
